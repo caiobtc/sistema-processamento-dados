@@ -1,0 +1,4 @@
+Atendente,ID da demanda,Data,Início do atendimento,Final do atendimento,Tipo de atendimento,E-mail gestor
+Rodrigo,16589,15/06/2024,12:24:35,,presencial,Ana@email
+Júlia,24578,15/06/2024,14:23:13,15:01:52,remoto,Eva@email
+Rodrigo,12588,15/06/2024,11:23:23,12:02:05,presencial,Ana@email
